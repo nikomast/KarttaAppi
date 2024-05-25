@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "userID": "1",
+      "username": "",
+      "password": "",
+      "id": "1bc1"
+    },
+    {
+      "userID": "2",
+      "username": "Testi",
+      "password": "Testaaja",
+      "id": "250f"
+    },
+    {
+      "id": "b940",
+      "username": "ASD",
+      "password": "ASD"
+    },
+    {
+      "id": "acd5",
+      "username": "saku",
+      "password": "tbl"
+    },
+    {
+      "id": "568e",
+      "username": "saku",
+      "password": "jtnp"
+    },
+    {
+      "id": "e46c",
+      "username": "hahaa",
+      "password": "ib"
+    },
+    {
+      "id": "c60c",
+      "username": "testi",
+      "password": "tbmbtbob"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pori",
+      "positionX": 15,
+      "positionY": 0,
+      "info": "Gonna have a bear of a time here",
+      "id": "0"
+    },
+    {
+      "name": "Studwater",
+      "positionX": 9,
+      "positionY": 9,
+      "info": "A small country village",
+      "id": "1"
+    },
+    {
+      "name": "Broompower",
+      "positionX": 22,
+      "positionY": 3,
+      "info": "Has a train station",
+      "id": "2"
+    },
+    {
+      "name": "Christina's City",
+      "positionX": 1,
+      "positionY": 4,
+      "info": "Very beautiful in the summer",
+      "id": "3"
+    },
+    {
+      "name": "Riversmouth",
+      "positionX": 5,
+      "positionY": 1,
+      "info": "Avoid at all costs",
+      "id": "4"
+    },
+    {
+      "name": "Testi",
+      "positionX": 16,
+      "positionY": 18,
+      "info": "Testausta",
+      "id": "5"
+    },
+    {
+      "name": "Helvetti",
+      "positionX": 22,
+      "positionY": 15,
+      "info": "Vähän on kuuma",
+      "id": "6"
+    },
+    {
+      "name": "Context",
+      "positionX": 3,
+      "positionY": 12,
+      "info": "Testausta",
+      "id": "7"
+    }
+  ],
+  "routes": [
+    {
+      "id": "1",
+      "name": "Route 22",
+      "departureLocationID": "1",
+      "arrivalLocationID": "2",
+      "departureTime": "12:15",
+      "arrivalTime": "14:45",
+      "distance": 300,
+      "notes": "A fun, scenic route"
+    },
+    {
+      "id": "2",
+      "name": "Route 36",
+      "departureLocationID": "2",
+      "arrivalLocationID": "3",
+      "departureTime": "13:30",
+      "arrivalTime": "16:35",
+      "distance": 245,
+      "notes": "Good for a family trip"
+    },
+    {
+      "id": "3",
+      "name": "Route 44",
+      "departureLocationID": "3",
+      "arrivalLocationID": "4",
+      "departureTime": "10:30",
+      "arrivalTime": "12:05",
+      "distance": 338,
+      "notes": "An unforgettable adventure"
+    },
+    {
+      "id": "4",
+      "name": "Route 56",
+      "departureLocationID": "4",
+      "arrivalLocationID": "1",
+      "departureTime": "17:00",
+      "arrivalTime": "23:30",
+      "distance": 527,
+      "notes": "Bear down for a long haul"
+    },
+    {
+      "id": "e0a2",
+      "name": "Helvettiin",
+      "departureLocationID": "0",
+      "arrivalLocationID": "6",
+      "departureTime": "10:00",
+      "arrivalTime": "",
+      "distance": 0,
+      "notes": ""
+    },
+    {
+      "id": "0405",
+      "name": "Testausta",
+      "departureLocationID": "7",
+      "arrivalLocationID": "5",
+      "departureTime": "10:00",
+      "arrivalTime": "",
+      "distance": 0,
+      "notes": "Toimiiko?"
+    }
+  ],
+  "comments": [
+    {
+      "id": "38d5",
+      "comment": "poljenyvittuusiit",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "0",
+      "entityType": "location"
+    },
+    {
+      "id": "243a",
+      "comment": "paska haisee tällä reitillä niin vitusti",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "2",
+      "entityType": "route"
+    },
+    {
+      "id": "12ab",
+      "comment": "send help!",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "1",
+      "entityType": "location"
+    },
+    {
+      "id": "385d",
+      "comment": "Kerran kävin ja toista kertaa en mene",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "0cca",
+      "entityType": "location"
+    },
+    {
+      "id": "a116",
+      "comment": "Moro saatana",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "3",
+      "entityType": "route"
+    },
+    {
+      "id": "34ca",
+      "comment": "Hyvin näyttää toimivan?",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "7",
+      "entityType": "location"
+    },
+    {
+      "id": "9f67",
+      "comment": "Toimii. Aikojen ja matkojen päivitys puuttuu vielä. ",
+      "username": "testi",
+      "userId": "c60c",
+      "entityId": "0405",
+      "entityType": "route"
+    }
+  ]
+}
